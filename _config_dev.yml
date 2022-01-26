@@ -1,0 +1,17 @@
+# User config
+author: "Rachel Nacilla"
+tagline: "Data Analyst | Business Analyst"
+description: "My name is Rachel Nacilla. I am a Wollongong-based data and business analyst with a background in software development. I use information technology to solve business problems and data to make the right decisions."
+keywords: "Data Analyst, Business Analyst, Technology"
+email: "rachelnacilla@gmail.com"
+linkedin: "https://www.linkedin.com/in/rachelnacilla/"
+twitter: "https://twitter.com/rachelintweets"
+github: "https://github.com/rachelnacilla"
+
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
