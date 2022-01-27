@@ -59,8 +59,17 @@
 }
 
 .aboutme {
-	a{
+	a {
 		text-decoration: underline;
+		&:hover {
+			color: $color-silver-chalice; 
+			text-decoration: none; 
+
+		}
+
+		&:visited {
+			text-decoration: underline;
+		}
 	}
 }
 
@@ -203,6 +212,16 @@
 
 		a {
 			text-decoration: underline;
+
+			&:hover {
+				color: $color-silver-chalice; 
+				text-decoration: none; 
+	
+			}
+	
+			&:visited {
+				text-decoration: underline;
+			}
 		}
 
 		ul {
