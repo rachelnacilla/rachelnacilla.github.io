@@ -44,6 +44,20 @@
 	}
 }
 
+.portrait {
+	
+	@media (min-width: $breakpoint-medium) {
+		float: left;
+		margin-right: 2em;
+		height: 20em;
+		
+	}
+
+	img {
+		border-radius: 200px;
+	}
+}
+
 .intro,
 .projects {
 	padding: 0 0 5rem;
