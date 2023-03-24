@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Providing Hope for the Philippines"
-  type: "Infographic"
+  type: "Online Infographic"
   url: "https://rachelnacilla.com/phphilippines/"
   logo: "/assets/images/projects/philippines/phphilippines_thumbnail.png"
   tech: "HTML, CSS, Boostrap, JavaScript, jQuery"
