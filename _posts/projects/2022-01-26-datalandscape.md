@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Philippines, Infographic"
+  keywords: "Data, Talks, Data Science"
 
 project:
   title: "Exploring the Modern Data Landscape"
